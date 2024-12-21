@@ -26,23 +26,23 @@ The Dynamic Multi-Channel Signal Viewer is a Python and Qt-based desktop applica
 Below are screenshots of the application demonstrating its key features:
 
 1. **Main Interface with Two Independent Graphs**  
-   ![Main Interface](https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer/blob/main/screenshots/Screen%20Shot%202024-12-21%20at%204.09.41%20PM.png)
+   ![Main Interface](https://github.com/user-attachments/assets/2c6bc2bf-5924-4e73-aaf0-e1a3b51f33ba)
 
 2. **Graph Linking and Signal Manipulation**  
-   ![Graph Linking](https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer/blob/main/screenshots/Screen%20Shot%202024-12-21%20at%204.11.16%20PM.png)
+   ![Graph Linking](https://github.com/user-attachments/assets/f8afb6e1-5fb5-4b46-b0bb-be5f1eb6881e)
 
 3. **Glue Window with Save Data and Get Report Buttons**  
    Ensure to press the **Save Data** button before generating the report using the **Get Report** button.  
-   ![Glue Window](https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer/blob/main/screenshots/Screen%20Shot%202024-12-21%20at%204.11.43%20PM.png)
+   ![Glue Window](https://github.com/user-attachments/assets/fdaed8a2-22a7-49a9-b5a9-c7657e8f59dd)
 
 4. **Signal Playback and Navigation**  
-   ![Signal Playback](https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer/blob/main/screenshots/Screen%20Shot%202024-12-21%20at%204.12.02%20PM.png)
+   ![Signal Playback](https://github.com/user-attachments/assets/8215e7fd-deec-4f40-bba7-1aae7ee0a75b)
 
 5. **Circular Signal Visualization**  
-   ![Circular Signal](https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer/blob/main/screenshots/Screen%20Shot%202024-12-21%20at%204.13.53%20PM.png)
+   ![Circular Signal](https://github.com/user-attachments/assets/1ab3a206-43c6-476d-a454-d6587a470e0c)
 
 6. **Signal Type Selection**  
-   ![Signal Selection](https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer/blob/main/screenshots/Screen%20Shot%202024-12-21%20at%204.14.22%20PM.png)
+   ![Signal Selection](https://github.com/user-attachments/assets/14a29bca-8649-40a0-846c-0d7f23d1ea7d)
 
 ---
 
@@ -87,12 +87,3 @@ Below are screenshots of the application demonstrating its key features:
 For any inquiries or feedback, please contact:
 - **Name**: Yassien Tawfik
 - **Email**: Yassien.m.m.tawfik@gmail.com
-
----
-<img width="1280" alt="Screen Shot 2024-12-21 at 4 14 22 PM" src="https://github.com/user-attachments/assets/2c6bc2bf-5924-4e73-aaf0-e1a3b51f33ba" />
-<img width="1280" alt="Screen Shot 2024-12-21 at 4 13 53 PM" src="https://github.com/user-attachments/assets/14a29bca-8649-40a0-846c-0d7f23d1ea7d" />
-<img width="1280" alt="Screen Shot 2024-12-21 at 4 12 02 PM" src="https://github.com/user-attachments/assets/1ab3a206-43c6-476d-a454-d6587a470e0c" />
-<img width="295" alt="Screen Shot 2024-12-21 at 4 11 43 PM" src="https://github.com/user-attachments/assets/8215e7fd-deec-4f40-bba7-1aae7ee0a75b" />
-<img width="1280" alt="Screen Shot 2024-12-21 at 4 11 16 PM" src="https://github.com/user-attachments/assets/fdaed8a2-22a7-49a9-b5a9-c7657e8f59dd" />
-<img width="1280" alt="Screen Shot 2024-12-21 at 4 09 41 PM" src="https://github.com/user-attachments/assets/f8afb6e1-5fb5-4b46-b0bb-be5f1eb6881e" />
-
