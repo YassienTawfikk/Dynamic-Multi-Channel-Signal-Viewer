@@ -6,19 +6,29 @@ The Dynamic Multi-Channel Signal Viewer is a Python and Qt-based desktop applica
 ---
 
 ### **Features**
-- **Signal Playback**:
-  - Cine mode with options to pause, play, rewind, or reset.
-  - Real-time playback of signals with dynamic controls.
-  
-- **Customizable Views**:
-  - Two independent or linked graphs for signal visualization.
-  - Controls for changing signal colors, zooming, panning, and labeling.
 
-- **Export & Reporting**:
-  - Generate organized PDF reports with graphs, statistics (mean, standard deviation, duration, min, and max), and customizable layouts.
-  
-- **Boundary Handling**:
-  - Prevent scrolling or panning beyond the signal limits.
+1. **Signal Playback Controls (Rectangular Signal)**:
+   - **Play/Pause**: Start or pause the playback of the signal.
+   - **Speed**: Adjust the playback speed dynamically.
+   - **Change Signal**: Switch the active signal being controlled in the playback.
+
+2. **Graph Management**:
+   - **Add Signal**: Add a static signal to the graph for comparison.
+   - **Merge**: Overlay two signals on the same graph or separate them into individual graphs.
+   - **Link/Unlink**: Synchronize or separate playback and zooming between two graphs.
+
+3. **Signal Customization**:
+   - **Change Colors**: Adjust the signal color for better visualization.
+   - **Labels/Titles**: Add or edit labels and titles for the signals.
+
+4. **Advanced Features**:
+   - **Glue**: Open the **Glue Window** to combine parts of different signals. Ensure to press **Save Data** before using **Get Report** to generate a PDF report.
+
+5. **Weather Indication (Real-Time Signal - RTS)**:
+   - Displays a visual indication of the current weather conditions.
+
+6. **Circular Signal**:
+   - Upload and plot a circular signal for unique signal analysis.
 
 ---
 
@@ -36,13 +46,10 @@ Below are screenshots of the application demonstrating its key features:
    ![Glue Window](https://github.com/user-attachments/assets/fdaed8a2-22a7-49a9-b5a9-c7657e8f59dd)
 
 4. **Signal Playback and Navigation**  
-   ![Signal Playback](https://github.com/user-attachments/assets/8215e7fd-deec-4f40-bba7-1aae7ee0a75b)
+   ![Signal Playback](https://github.com/user-attachments/assets/1ab3a206-43c6-476d-a454-d6587a470e0c)
 
 5. **Circular Signal Visualization**  
-   ![Circular Signal](https://github.com/user-attachments/assets/1ab3a206-43c6-476d-a454-d6587a470e0c)
-
-6. **Signal Type Selection**  
-   ![Signal Selection](https://github.com/user-attachments/assets/14a29bca-8649-40a0-846c-0d7f23d1ea7d)
+   ![Circular Signal](https://github.com/user-attachments/assets/14a29bca-8649-40a0-846c-0d7f23d1ea7d)
 
 ---
 
@@ -78,7 +85,6 @@ Below are screenshots of the application demonstrating its key features:
 ### **Shout out to the team**
 
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
-- [Mazen Marwan](https://github.com/Mazenmarwan023)
 - [Nancy Mahmoud](https://github.com/nancymahmoud1)
 - [Madonna Mosaad](https://github.com/madonna-mosaad)
 ---
