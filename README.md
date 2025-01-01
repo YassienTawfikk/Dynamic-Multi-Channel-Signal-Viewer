@@ -45,7 +45,7 @@ Below are screenshots of the application demonstrating its key features:
    Ensure to press the **Save Data** button before generating the report using the **Get Report** button.  
    ![Glue Window](https://github.com/user-attachments/assets/fdaed8a2-22a7-49a9-b5a9-c7657e8f59dd)
 
-4. **Signal Playback and Navigation**  
+4. **Real Time Signal for the Weather**  
    ![Signal Playback](https://github.com/user-attachments/assets/1ab3a206-43c6-476d-a454-d6587a470e0c)
 
 5. **Circular Signal Visualization**  
