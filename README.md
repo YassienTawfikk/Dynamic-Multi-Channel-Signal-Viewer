@@ -82,14 +82,37 @@ Below are screenshots of the application demonstrating its key features:
 
 ---
 
-### **Shout out to the team**
-
-- [Yassien Tawfik](https://github.com/YassienTawfikk)
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)
-- [Madonna Mosaad](https://github.com/madonna-mosaad)
----
-
-### **Contact**
-For any inquiries or feedback, please contact:
-- **Name**: Yassien Tawfik
-- **Email**: Yassien.m.m.tawfik@gmail.com
+## Contributors
+<table align="center">
+  <tr>
+        <td align="center">
+      <a href="https://github.com/YassienTawfikk" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/126521373?v=4" width="150px;" alt="Yassien Tawfik"/>
+        <br />
+        <sub><b>Yassien Tawfik</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/madonna-mosaad" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/127048836?v=4" width="150px;" alt="Madonna Mosaad"/>
+        <br />
+        <sub><b>Madonna Mosaad</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/nancymahmoud1" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/125357872?v=4" width="150px;" alt="Nancy Mahmoud"/>
+        <br />
+        <sub><b>Nancy Mahmoud</b></sub>
+      </a>
+    </td>
+    </td>
+        <td align="center">
+      <a href="https://github.com/yousseftaha167" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/128304243?v=4" width="150px;" alt="Youssef Taha"/>
+        <br />
+        <sub><b>Youssef Taha</b></sub>
+      </a>
+    </td>    
+  </tr>
+</table>
